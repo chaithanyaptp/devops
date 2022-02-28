@@ -1,0 +1,2 @@
+# devops
+purpose pratial
